@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": "../.vscode"
+	},
+	{
+		"path": "../control-flujo"
+	},
+	{
+		"path": "../funciones"
+	},
+	{
+		"path": "../tipos"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+  }
+}

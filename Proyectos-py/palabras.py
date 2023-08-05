@@ -1,0 +1,1 @@
+palabras = ["aire", "ojos", "piel", "anteojos", "joven", "viejo", "anillo", "chaqueta", "cerrar", "hombre", "chayo", "toro", "almeja", "barco", "auto", "pizza", "payaso", "princesa", "zopilote", "sandia", "salami", "tierra", "camisa", "zapatos", "zorrillo", "titere", "tomate", "tierno", "taza", "plato", "motor", "milanesa", "tacos"]

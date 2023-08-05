@@ -1,0 +1,17 @@
+numeros = [2, 4, 1, 45, 73, 22]
+
+# numeros.sort(reverse=True)
+numeros2 = sorted(numeros, reverse=True)
+print(numeros)
+print(numeros2)
+
+
+usuarios = [[4, "chanchito"], [1, "Felipe"], [5, "pulga"]]
+
+
+# def ordena(elemento):
+#    return elemento[1]
+
+
+usuarios.sort(key=lambda el: el[1])
+print(usuarios)
