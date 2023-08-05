@@ -16,11 +16,11 @@ nivel1 = np.random.rand(10) * 100
 # plt.bar(años, nivel1, width=1/5)
 # plt.bar(años, nivel1, width=1/5)
 # plt.bar(años, nivel1, width=1/5)
-plt.bar(años, nivel1, width=1/5)
+# plt.bar(años, nivel1, width=1/5)
 
 
-# plt.plot(años, nivel1, label="Nivel 1",
-#         color="purple", marker="<", linestyle="-")
+plt.plot(años, nivel1, label="Nivel 1",
+         color="purple", marker="<", linestyle="-")
 # plt.plot(años, nivel2, label="Nivel 2",
 #         color="red", marker="*", linestyle="--")
 # plt.plot(años, nivel3, label="Nivel 3",
